@@ -1,2 +1,2 @@
 # BoilerPlate
-#Just another interesting project I am working on
+#Just another interesting project
