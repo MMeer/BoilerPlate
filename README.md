@@ -1,2 +1,2 @@
 # BoilerPlate
-#Just another interesting project
+#One cool project in the making...
