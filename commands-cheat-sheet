@@ -5,3 +5,4 @@ Command - Shift - A : find action
 Double tap alt (holding second time) : select multiple lines with arrow keys
 git status - shows status on git
 git add . - adds folders recursively after the selected folder
+command-shift-o - find file
